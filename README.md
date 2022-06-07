@@ -3,12 +3,12 @@
 A trip planner for people with disabilities. This app allows them to plan entire accessible trips from searching places to the routes to and from the places in their itineraries.
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/69304255/172322701-7347a697-11de-47e1-bc34-e99344674610.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/69304255/172323155-773aba9b-e213-47c8-99fe-911825289225.png" width="300" /> 
-  <img src="https://user-images.githubusercontent.com/69304255/172323212-f00c516b-0b0e-4eee-b63b-1152abdf681d.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/69304255/172323249-3eaa8dd4-8766-49a7-a0f4-885d6b1c4ee2.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/69304255/172323286-ce8dc233-0870-4be7-9c46-baaec64680f4.png" width="300" />
-  <img src="https://user-images.githubusercontent.com/69304255/172323300-d420c157-c1ab-4ce5-9c9c-8ed929140486.png" width="300" />
+  <img src="https://user-images.githubusercontent.com/69304255/172322701-7347a697-11de-47e1-bc34-e99344674610.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/69304255/172323155-773aba9b-e213-47c8-99fe-911825289225.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/69304255/172323212-f00c516b-0b0e-4eee-b63b-1152abdf681d.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/69304255/172323249-3eaa8dd4-8766-49a7-a0f4-885d6b1c4ee2.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/69304255/172323286-ce8dc233-0870-4be7-9c46-baaec64680f4.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/69304255/172323300-d420c157-c1ab-4ce5-9c9c-8ed929140486.png" width="200" />
 </p>
 
 <br>
