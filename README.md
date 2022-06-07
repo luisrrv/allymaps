@@ -32,9 +32,11 @@ Create `.env` file
 ```
 touch .env
 ```
-Inside `.env`, set these variables.
+Inside `.env`, set these variables. For any APIs, see group Slack channel.
 ```
 CLOUDINARY_URL=your_own_cloudinary_url_key
+MAPBOX_API_KEY=your_own_mapbox_url_key
+GOOGLE_MAPS_API_KEY=your_own_google_maps_url_key
 ```
 
 ### DB Setup
