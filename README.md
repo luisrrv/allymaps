@@ -63,6 +63,7 @@ rails s
  - [AccessibleJapan](https://www.accessible-japan.com/)
 
 ## Team Members
+- [Luis Rodriguez](https://www.github.com/luisrrv)
 - [Tirso Pascual](https://www.github.com/tirsop)
 - [Yuki Harwood](https://www.github.com/yharwood)
 - [Kenji Yanagawa](https://www.github.com/KenjiYANAGAWA)
